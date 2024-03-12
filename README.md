@@ -1,4 +1,4 @@
-# Chinese Comment Remover
+# Python Comment Remover
 
 A simple tool to remove all comments [with chinese character] from a source code file or a directory.
 
